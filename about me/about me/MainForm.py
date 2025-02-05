@@ -89,4 +89,4 @@ class MainForm(Form):
 		Application.Exit()
 
 	def Button4Click(self, sender, e):
-		self._label1.Text = "Why did you clck this?"
+		self._label1.Text = "Why did you click this?"
