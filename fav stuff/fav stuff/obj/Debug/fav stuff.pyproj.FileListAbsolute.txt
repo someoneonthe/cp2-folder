@@ -1,0 +1,12 @@
+C:\Users\mullen.n\Desktop\cp2 folder\fav stuff\fav stuff\bin\Debug\fav stuff.exe.config
+C:\Users\mullen.n\Desktop\cp2 folder\fav stuff\fav stuff\bin\Debug\fav stuff.exe
+C:\Users\mullen.n\Desktop\cp2 folder\fav stuff\fav stuff\bin\Debug\fav stuff.dll
+C:\Users\mullen.n\Desktop\cp2 folder\fav stuff\fav stuff\bin\Debug\IronPython.dll
+C:\Users\mullen.n\Desktop\cp2 folder\fav stuff\fav stuff\bin\Debug\IronPython.Modules.dll
+C:\Users\mullen.n\Desktop\cp2 folder\fav stuff\fav stuff\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\mullen.n\Desktop\cp2 folder\fav stuff\fav stuff\bin\Debug\Microsoft.Scripting.dll
+C:\Users\mullen.n\Desktop\cp2 folder\fav stuff\fav stuff\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\mullen.n\Desktop\cp2 folder\fav stuff\fav stuff\obj\Debug\fav stuff.pyprojResolveAssemblyReference.cache
+C:\Users\mullen.n\Desktop\cp2 folder\fav stuff\fav stuff\obj\Debug\fav_stuff.MainForm.resources
+C:\Users\mullen.n\Desktop\cp2 folder\fav stuff\fav stuff\obj\Debug\fav stuff.pyproj.GenerateResource.Cache
+C:\Users\mullen.n\Desktop\cp2 folder\fav stuff\fav stuff\obj\Debug\fav stuff.exe
