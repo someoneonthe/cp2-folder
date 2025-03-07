@@ -52,13 +52,13 @@ class MainForm(Form):
 
 
 	def Button1Click(self, sender, e):
-		word1 = self._textBox1.Text
+		word = self._textBox1.Text
 		num = 0
-		for hcv in range(len(word1)):
-			ltr = word1[0]
+		for num in range(len(word)):
+			ltr = word[0]
 			num += 1
-			if ltr == word1[num]:
-				ltr == word1[num -1]
+			if ltr == word[num]:
+				ltr == word[num -1]
 			else:
 				self._label1.Text = "yes"
 			
