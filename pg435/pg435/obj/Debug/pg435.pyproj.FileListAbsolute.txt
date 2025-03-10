@@ -11,3 +11,4 @@ C:\Users\mullen.n\Desktop\cp2 folder\pg435\pg435\obj\Debug\pg435.Form1.resources
 C:\Users\mullen.n\Desktop\cp2 folder\pg435\pg435\obj\Debug\pg435.MainForm.resources
 C:\Users\mullen.n\Desktop\cp2 folder\pg435\pg435\obj\Debug\pg435.pyproj.GenerateResource.Cache
 C:\Users\mullen.n\Desktop\cp2 folder\pg435\pg435\obj\Debug\pg435.exe
+C:\Users\mullen.n\Desktop\cp2 folder\pg435\pg435\obj\Debug\pg435.Form2.resources
