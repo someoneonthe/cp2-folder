@@ -1,0 +1,12 @@
+C:\Users\mullen.n\Desktop\cp2 folder\prog 54c\prog 54c\bin\Debug\prog 54c.exe.config
+C:\Users\mullen.n\Desktop\cp2 folder\prog 54c\prog 54c\bin\Debug\prog 54c.exe
+C:\Users\mullen.n\Desktop\cp2 folder\prog 54c\prog 54c\bin\Debug\prog 54c.dll
+C:\Users\mullen.n\Desktop\cp2 folder\prog 54c\prog 54c\bin\Debug\IronPython.dll
+C:\Users\mullen.n\Desktop\cp2 folder\prog 54c\prog 54c\bin\Debug\IronPython.Modules.dll
+C:\Users\mullen.n\Desktop\cp2 folder\prog 54c\prog 54c\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\mullen.n\Desktop\cp2 folder\prog 54c\prog 54c\bin\Debug\Microsoft.Scripting.dll
+C:\Users\mullen.n\Desktop\cp2 folder\prog 54c\prog 54c\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\mullen.n\Desktop\cp2 folder\prog 54c\prog 54c\obj\Debug\prog 54c.pyprojResolveAssemblyReference.cache
+C:\Users\mullen.n\Desktop\cp2 folder\prog 54c\prog 54c\obj\Debug\prog_54c.MainForm.resources
+C:\Users\mullen.n\Desktop\cp2 folder\prog 54c\prog 54c\obj\Debug\prog 54c.pyproj.GenerateResource.Cache
+C:\Users\mullen.n\Desktop\cp2 folder\prog 54c\prog 54c\obj\Debug\prog 54c.exe

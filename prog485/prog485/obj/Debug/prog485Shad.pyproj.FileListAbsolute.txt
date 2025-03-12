@@ -1,0 +1,12 @@
+C:\Users\mullen.n\Desktop\cp2 folder\prog485\prog485\bin\Debug\prog485Shad.exe.config
+C:\Users\mullen.n\Desktop\cp2 folder\prog485\prog485\bin\Debug\prog485Shad.exe
+C:\Users\mullen.n\Desktop\cp2 folder\prog485\prog485\bin\Debug\prog485Shad.dll
+C:\Users\mullen.n\Desktop\cp2 folder\prog485\prog485\bin\Debug\IronPython.dll
+C:\Users\mullen.n\Desktop\cp2 folder\prog485\prog485\bin\Debug\IronPython.Modules.dll
+C:\Users\mullen.n\Desktop\cp2 folder\prog485\prog485\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\mullen.n\Desktop\cp2 folder\prog485\prog485\bin\Debug\Microsoft.Scripting.dll
+C:\Users\mullen.n\Desktop\cp2 folder\prog485\prog485\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\mullen.n\Desktop\cp2 folder\prog485\prog485\obj\Debug\prog485Shad.pyprojResolveAssemblyReference.cache
+C:\Users\mullen.n\Desktop\cp2 folder\prog485\prog485\obj\Debug\prog485.MainForm.resources
+C:\Users\mullen.n\Desktop\cp2 folder\prog485\prog485\obj\Debug\prog485Shad.pyproj.GenerateResource.Cache
+C:\Users\mullen.n\Desktop\cp2 folder\prog485\prog485\obj\Debug\prog485Shad.exe

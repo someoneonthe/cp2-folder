@@ -1,0 +1,12 @@
+C:\Users\mullen.n\Desktop\cp2 folder\string3\string3\obj\Debug\string3.pyprojResolveAssemblyReference.cache
+C:\Users\mullen.n\Desktop\cp2 folder\string3\string3\obj\Debug\string3.MainForm.resources
+C:\Users\mullen.n\Desktop\cp2 folder\string3\string3\obj\Debug\string3.pyproj.GenerateResource.Cache
+C:\Users\mullen.n\Desktop\cp2 folder\string3\string3\bin\Debug\string3.exe.config
+C:\Users\mullen.n\Desktop\cp2 folder\string3\string3\bin\Debug\string3.exe
+C:\Users\mullen.n\Desktop\cp2 folder\string3\string3\bin\Debug\string3.dll
+C:\Users\mullen.n\Desktop\cp2 folder\string3\string3\bin\Debug\IronPython.dll
+C:\Users\mullen.n\Desktop\cp2 folder\string3\string3\bin\Debug\IronPython.Modules.dll
+C:\Users\mullen.n\Desktop\cp2 folder\string3\string3\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\mullen.n\Desktop\cp2 folder\string3\string3\bin\Debug\Microsoft.Scripting.dll
+C:\Users\mullen.n\Desktop\cp2 folder\string3\string3\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\mullen.n\Desktop\cp2 folder\string3\string3\obj\Debug\string3.exe

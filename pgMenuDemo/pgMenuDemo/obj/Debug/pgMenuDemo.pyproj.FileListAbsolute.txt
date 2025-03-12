@@ -1,0 +1,12 @@
+C:\Users\mullen.n\Desktop\cp2 folder\pgMenuDemo\pgMenuDemo\obj\Debug\pgMenuDemo.pyprojResolveAssemblyReference.cache
+C:\Users\mullen.n\Desktop\cp2 folder\pgMenuDemo\pgMenuDemo\obj\Debug\pgMenuDemo.MainForm.resources
+C:\Users\mullen.n\Desktop\cp2 folder\pgMenuDemo\pgMenuDemo\obj\Debug\pgMenuDemo.pyproj.GenerateResource.Cache
+C:\Users\mullen.n\Desktop\cp2 folder\pgMenuDemo\pgMenuDemo\bin\Debug\pgMenuDemo.exe.config
+C:\Users\mullen.n\Desktop\cp2 folder\pgMenuDemo\pgMenuDemo\bin\Debug\pgMenuDemo.exe
+C:\Users\mullen.n\Desktop\cp2 folder\pgMenuDemo\pgMenuDemo\bin\Debug\pgMenuDemo.dll
+C:\Users\mullen.n\Desktop\cp2 folder\pgMenuDemo\pgMenuDemo\bin\Debug\IronPython.dll
+C:\Users\mullen.n\Desktop\cp2 folder\pgMenuDemo\pgMenuDemo\bin\Debug\IronPython.Modules.dll
+C:\Users\mullen.n\Desktop\cp2 folder\pgMenuDemo\pgMenuDemo\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\mullen.n\Desktop\cp2 folder\pgMenuDemo\pgMenuDemo\bin\Debug\Microsoft.Scripting.dll
+C:\Users\mullen.n\Desktop\cp2 folder\pgMenuDemo\pgMenuDemo\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\mullen.n\Desktop\cp2 folder\pgMenuDemo\pgMenuDemo\obj\Debug\pgMenuDemo.exe
