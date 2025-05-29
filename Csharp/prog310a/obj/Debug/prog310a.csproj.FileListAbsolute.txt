@@ -1,0 +1,8 @@
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\prog310a\bin\Debug\prog310a.exe.config
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\prog310a\bin\Debug\prog310a.exe
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\prog310a\bin\Debug\prog310a.pdb
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\prog310a\obj\Debug\prog310a.Form1.resources
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\prog310a\obj\Debug\prog310a.Properties.Resources.resources
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\prog310a\obj\Debug\prog310a.csproj.GenerateResource.Cache
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\prog310a\obj\Debug\prog310a.exe
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\prog310a\obj\Debug\prog310a.pdb

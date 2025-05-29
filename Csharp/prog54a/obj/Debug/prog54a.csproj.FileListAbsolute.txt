@@ -1,0 +1,9 @@
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\prog54a\bin\Debug\prog54a.exe.config
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\prog54a\obj\Debug\prog54a.csprojResolveAssemblyReference.cache
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\prog54a\obj\Debug\prog54a.Form1.resources
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\prog54a\obj\Debug\prog54a.Properties.Resources.resources
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\prog54a\obj\Debug\prog54a.csproj.GenerateResource.Cache
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\prog54a\bin\Debug\prog54a.exe
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\prog54a\bin\Debug\prog54a.pdb
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\prog54a\obj\Debug\prog54a.exe
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\prog54a\obj\Debug\prog54a.pdb

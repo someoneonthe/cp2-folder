@@ -1,0 +1,9 @@
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\prog122a\bin\Debug\prog122a.exe.config
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\prog122a\obj\Debug\prog122a.csprojResolveAssemblyReference.cache
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\prog122a\obj\Debug\prog122a.Form1.resources
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\prog122a\obj\Debug\prog122a.Properties.Resources.resources
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\prog122a\obj\Debug\prog122a.csproj.GenerateResource.Cache
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\prog122a\bin\Debug\prog122a.exe
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\prog122a\bin\Debug\prog122a.pdb
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\prog122a\obj\Debug\prog122a.exe
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\prog122a\obj\Debug\prog122a.pdb

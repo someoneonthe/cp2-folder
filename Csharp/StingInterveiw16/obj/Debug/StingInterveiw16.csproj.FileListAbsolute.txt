@@ -1,0 +1,5 @@
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\StingInterveiw16\bin\Debug\StingInterveiw16.exe.config
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\StingInterveiw16\bin\Debug\StingInterveiw16.exe
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\StingInterveiw16\bin\Debug\StingInterveiw16.pdb
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\StingInterveiw16\obj\Debug\StingInterveiw16.exe
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\StingInterveiw16\obj\Debug\StingInterveiw16.pdb

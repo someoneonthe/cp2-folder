@@ -1,0 +1,2 @@
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\calcWithFunctions\bin\Debug\calcWithFunctions.exe.config
+C:\Users\mullen.n\Documents\Visual Studio 2013\Projects\Csharp\calcWithFunctions\obj\Debug\calcWithFunctions.csprojResolveAssemblyReference.cache

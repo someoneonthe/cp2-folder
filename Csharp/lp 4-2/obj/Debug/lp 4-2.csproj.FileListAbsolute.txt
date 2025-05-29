@@ -1,0 +1,5 @@
+C:\Users\mullen.n\documents\visual studio 2013\Projects\Csharp\lp 4-2\bin\Debug\lp 4-2.exe.config
+C:\Users\mullen.n\documents\visual studio 2013\Projects\Csharp\lp 4-2\bin\Debug\lp 4-2.exe
+C:\Users\mullen.n\documents\visual studio 2013\Projects\Csharp\lp 4-2\bin\Debug\lp 4-2.pdb
+C:\Users\mullen.n\documents\visual studio 2013\Projects\Csharp\lp 4-2\obj\Debug\lp 4-2.exe
+C:\Users\mullen.n\documents\visual studio 2013\Projects\Csharp\lp 4-2\obj\Debug\lp 4-2.pdb
