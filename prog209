@@ -1,0 +1,14 @@
+import random
+num = int(input("give me a random number: "))
+less = 0
+more = 0
+for i in range(400):
+    num2 = int(random.randint(0,1000))
+    if num2 >= num:
+        more += 1
+    elif num <= num:
+        less += 1
+    else:
+        num2 = int(random.randint(0,1000))
+print("numbers less than given: " + str(less))
+print("numbers more than given: " + str(more)) 
