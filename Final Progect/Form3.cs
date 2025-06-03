@@ -35,10 +35,14 @@ namespace Final_Progect
             string txt = textBox1.Text + "\t" + textBox2.Text + "\t" + textBox3.Text; Full1.Add(txt);
             var Beta = System.Text.Encoding.UTF8.GetBytes(txt);
             string BetaString = System.Convert.ToBase64String(Beta);
-            using (StreamWriter sw = new StreamWriter(path + "/Password.txt",true))
+            if (textBox1.Text != "")
             {
-                sw.WriteLine(BetaString);
+                    using (StreamWriter sw = new StreamWriter(path + "/Password.txt",true))
+                {
+                    sw.WriteLine(BetaString);
+                }
             }
+            else { MessageBox.Show("You should at least name it"); }
         }
     }
 }
